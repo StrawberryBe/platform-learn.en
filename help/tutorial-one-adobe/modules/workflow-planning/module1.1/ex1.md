@@ -187,7 +187,7 @@ Click **X** to close the popup.
 
 ![Workfront Planning](./images/wfpl34.png)
 
-You should then see thenewly created campaign in the overview.
+You should then see the newly created campaign in the overview.
 
 ![Workfront Planning](./images/wfpl35.png)
 
