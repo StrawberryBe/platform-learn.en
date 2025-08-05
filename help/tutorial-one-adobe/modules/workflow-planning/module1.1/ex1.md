@@ -39,7 +39,7 @@ You should then see this. Click **Create Workspace**.
 
 ![Workfront Planning](./images/wfpl3.png)
 
-Click **Use tempmate** for the template **Basic Marketing Management**.
+Click **Use template** for the template **Basic Marketing Management**.
 
 ![Workfront Planning](./images/wfpl4.png)
 
